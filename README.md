@@ -1,1 +1,3 @@
 # solvro-ai-wdrozenie
+
+Otwórz notebooka w colabie, nie wiem w sumie czy da się jakoś wygodniej to zrobić...
